@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    
+    
+
+}
+
+/* NAAVBARR */
+
+.container{
+    background-color: #FFF1E5;
+}
+
+.nav-link{
+    background-color: #FFF1E5 !important;
+    width: 100% !important;
+height: 8vh !important;
+}
+
+.nav-link{
+    text-decoration: none;
+    padding-left: 20px !important;
+    margin-left: 100px !important;
+    color: rgb(0, 0, 0) !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+    font-size:20px !important;
+
+}
+
+.containerone{
+    width: 100%;
+    height: 100%;
+}
+
+/* CONTAINERRR */
+
+.containertwo{
+background-color: #FFF1E5;
+width: 100%;
+height: 95vh;
+display: flex;
+
+}
+
+.boxone{
+width: 40%;
+height: 40vh;
+margin-top: 200px;
+
+}
+
+
+
+#webtext{
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 300;
+line-height: 25.78px;
+text-align: center;
+
+
+}
+#headingg{
+text-align: center;
+font-family: Roboto;
+font-size: 72px;
+font-weight: 700;
+line-height: 90px;
+color: #fc5e77 ;
+
+
+
+}
+
+.boxtwo{
+   
+    width: 50%;
+    height: 80vh;
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+
+.imageee{
+    width: 768.85px;
+    height: 696.77px;
+    top: 51px;
+    left: 733.02px;
+    gap: 0px;
+    opacity: 0px;
+    angle: -9.58 deg;
+    
+}
+

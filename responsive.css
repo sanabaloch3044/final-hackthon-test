@@ -1,0 +1,39 @@
+@media (min-width:300px) and (max-width:576px){
+    
+  .container{
+    width: 100%;
+    height: auto;
+  }
+    
+  .containertwo{
+    width: 100%;
+ display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 110vh;
+  
+  }
+
+
+.imageee{ 
+    flex-direction: column;
+    margin-top: 350px;
+   padding-right: 400px;
+   background-color: #FFF1E5;
+
+
+
+  
+
+}
+
+.boxone{
+
+font-size: 5px;
+padding-bottom: 50px;
+}
+
+.boxtwo{
+
+}
+}
